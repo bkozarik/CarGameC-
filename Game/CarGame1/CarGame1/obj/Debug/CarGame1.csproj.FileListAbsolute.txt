@@ -1,0 +1,14 @@
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\bin\Debug\CarGame1.exe.config
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\bin\Debug\CarGame1.exe
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\bin\Debug\CarGame1.pdb
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.csproj.AssemblyReference.cache
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.Form1.resources
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.Properties.Resources.resources
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.csproj.GenerateResource.cache
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.csproj.CoreCompileInputs.cache
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.exe
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.pdb
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\bin\Debug\CarGame1.exe.manifest
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\bin\Debug\CarGame1.application
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.exe.manifest
+C:\Users\bkozarik\source\repos\CarGame1\CarGame1\obj\Debug\CarGame1.application
